@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 16-oct-2017, 10:05:06
+    Author     : manuel
+*/
+
+.legend2{
+    font-style: oblique;
+    background: bisque;
+    font-size: 1.7em
+}
+
+.fieldset1{
+    width:60%;
+    background: blanchedalmond;
+    margin-left: 20%
+}
+.fieldset2{
+    width:90%;
+}
+
+.error{
+    float:right;
+    color:red;
+    font-size:12px;
+    font-style: oblique
+}
+.caja_centrada{
+    width:30%;
+    margin-left:30%;
+    margin-top:10%;
+    background: blanchedalmond
+}
+
+.ficheros{
+    width:50%;
+    margin-left:10%;
+    margin-top:2%;
+    background: blanchedalmond
+}
+
+legend{
+    font-size: 2em;
+    color: brown;
+    background: burlywood
+}
+
+h1{
+    //n-left: 25%;
+    color:darkred;
+    font-style: inherit;
+    font-size:3em;
+    text-align: center
+}
+h2{
+    margin-left: 25%;
+    color:darkblue;
+    font-style: italic;
+  //  text-align: center
+}
+h3{
+    color:darkblue;
+    font-style: italic;
+    text-align: center
+}
+
+input[type="submit"]:active {
+    color: darkred;
+
+}input[type="submit"]{
+    //color:darkgreen;
+    text-align: right;
+    font-size: 20px;
+
+}
